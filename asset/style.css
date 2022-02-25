@@ -1,3 +1,19 @@
-body{
-    background-color: red;
+.barra-nav{
+    background-color:rgba(44,62,80,255) ;
+    color: white;
 }
+
+.nav-link{
+    color: white;
+}
+
+.sfondo-verde{
+    background-color: rgba(26,188,156,255);
+    width: 100vw;
+    height: auto;
+}
+
+.img-avatar{
+    max-width: 250px;
+}
+
