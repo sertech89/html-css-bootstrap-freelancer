@@ -17,3 +17,15 @@
     max-width: 250px;
 }
 
+.nav{
+    margin: 20px 0;
+}
+
+.text-center{
+    color: white;
+}
+
+.bg-light{
+    background-color: rgba(44,62,80,255) ;
+}
+
