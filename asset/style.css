@@ -14,7 +14,8 @@
 }
 
 .img-avatar{
-    max-width: 250px;
+    max-width: 200px;
+
 }
 
 .nav{
@@ -25,7 +26,10 @@
     color: white;
 }
 
-.bg-light{
-    background-color: rgba(44,62,80,255) ;
+.portfolio{
+    text-align: center;
 }
 
+.stella{
+    text-align: center;
+}
