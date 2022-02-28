@@ -7,21 +7,14 @@
     color: white;
 }
 
-.riga {
-    background-color: black;
-    width: 30px;
-    height: 5px;
-}
-
 .sfondo-verde {
     background-color: rgba(26, 188, 156, 255);
     width: 100vw;
     height: auto;
 }
 
-.img-avatar {
-    max-width: 200px;
-
+.line{
+    height: 1px;
 }
 
 .nav {
