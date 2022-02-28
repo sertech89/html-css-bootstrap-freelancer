@@ -1,35 +1,57 @@
-.barra-nav{
-    background-color:rgba(44,62,80,255) ;
+.barra-nav {
+    background-color: rgba(44, 62, 80, 255);
     color: white;
 }
 
-.nav-link{
+.nav-link {
     color: white;
 }
 
-.sfondo-verde{
-    background-color: rgba(26,188,156,255);
+.riga {
+    background-color: black;
+    width: 30px;
+    height: 5px;
+}
+
+.sfondo-verde {
+    background-color: rgba(26, 188, 156, 255);
     width: 100vw;
     height: auto;
 }
 
-.img-avatar{
+.img-avatar {
     max-width: 200px;
 
 }
 
-.nav{
+.nav {
     margin: 20px 0;
 }
 
-.text-center{
+.text-center {
     color: white;
 }
 
-.portfolio{
+.portfolio {
     text-align: center;
 }
 
-.stella{
+.stella {
     text-align: center;
+}
+
+.sfondo-light-green {
+    background-color: rgba(26, 188, 156, 255);
+    margin: 40px 0;
+    color: white;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.button-green {
+    margin-top: 100px;
+    background-color: rgba(26, 188, 156, 255);
+    border: none;
 }
