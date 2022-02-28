@@ -21,17 +21,6 @@
     margin: 20px 0;
 }
 
-.text-center {
-    color: white;
-}
-
-.portfolio {
-    text-align: center;
-}
-
-.stella {
-    text-align: center;
-}
 
 .sfondo-light-green {
     background-color: rgba(26, 188, 156, 255);
@@ -47,4 +36,12 @@
     margin-top: 100px;
     background-color: rgba(26, 188, 156, 255);
     border: none;
+}
+
+.sfondo-grigio{
+    background-color: rgba(58,84,109,255);
+}
+
+.sfondo-grigio-scuro{
+    background-color: rgba(44,62,80,255);
 }
